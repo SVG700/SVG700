@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/photo.svg" width="210" alt="Samhith V Gupta"/>
+</p>
+
 <h1 align="center">Hi, I'm Samhith V Gupta 👋</h1>
 <p align="center">
   <b>B.Tech Computer Science & Engineering @ Presidency University, Bengaluru</b><br/>
@@ -9,6 +13,10 @@
   <a href="mailto:samhithvgupta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linktr.ee/samhith_v_gupta"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
   <a href="https://youtube.com/@samhithvgupta7008"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
+
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Animated terminal: whoami — Samhith V Gupta, B.Tech CSE at Presidency University. Stack: TypeScript, Python, React, Next.js, FastAPI, Supabase, Gemini, Android."/>
 </p>
 
 ---
