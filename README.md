@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/photo.svg" width="210" alt="Samhith V Gupta"/>
+  <img src="./assets/photo.svg" width="260" alt="Samhith V Gupta"/>
 </p>
 
 <h1 align="center">Hi, I'm Samhith V Gupta 👋</h1>
