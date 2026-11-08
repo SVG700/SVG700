@@ -61,14 +61,15 @@
 |---|---|---|
 | [**Agrisense AI**](https://github.com/SVG700/Agrisense) | Predictive insect monitoring for farms — Raspberry Pi sticky traps, AI vision pest detection, Gemini/Claude agronomic advice and a real-time farmer dashboard (IoT · Computer Vision · React · Supabase) | [Demo](https://agrisense-eight-nu.vercel.app) |
 | [**Drishti**](https://github.com/SVG700/Drishti) | AI-powered infrastructure intelligence for MoSPI PAIMANA (Smart India Hackathon SIH26103) — 2,100+ national projects, delay & risk analytics, a Gemini assistant and a 3D Cesium globe | [Demo](https://drishti-nu-one.vercel.app) |
+| [**PIXRA AI**](https://github.com/SVG700/pixra-ai) | WhatsApp-native AI design agency — a Gemini agent collects the brief in chat, FLUX makes backgrounds, code renders the text, Gemini vision checks quality and a human approves before delivery on WhatsApp, Telegram or web (Node.js · Supabase · 140 tests) | Live, admin-only |
 | [**NyayaLens**](https://github.com/SVG700/NyayaLens) | AI-powered legal document understanding & assistance platform (Next.js + Gemini) | [Demo](https://nyayalens-pink.vercel.app) |
 | [**Utsava**](https://github.com/SVG700/Utsava) | GenAI event planner for weddings, birthdays and community events — exact budgets and timelines, tested with Vitest & Playwright (PromptWars 2026) | [Demo](https://utsava-murex.vercel.app) |
 | [**StadiumOS AI**](https://github.com/SVG700/StadiumOS-AI) | Smart stadium operations platform for FIFA World Cup 2026, powered by Generative AI | [Demo](https://stadium-os-ai-topaz.vercel.app) |
-| [**CivicMind AI**](https://github.com/SVG700/CivicMind-AI) | Multi-agent decision-intelligence platform for municipal and emergency teams | [Demo](https://civic-mind-ai-xi.vercel.app) |
 
 <details>
 <summary><b>More projects</b></summary>
 
+- [**CivicMind AI**](https://github.com/SVG700/CivicMind-AI) — multi-agent decision-intelligence platform for municipal and emergency teams ([live](https://civic-mind-ai-xi.vercel.app))
 - [**HelioHub**](https://github.com/SVG700/HelioHub) — smart solar charging station platform with a Gemini AI assistant and live dashboard ([live](https://helio-hub.vercel.app))
 - [**EcoBuddy AI**](https://github.com/SVG700/ecobuddy-ai) — mobile-first PWA to track and cut your carbon footprint with Gemini tips ([live](https://ecobuddy-ai-eight.vercel.app))
 - [**Portfolio + Android app**](https://github.com/SVG700/portfolio) — my personal site (React, Framer Motion, three.js) that also ships as an offline Android app ([live](https://portfolio-xi-two-shccsnjn2d.vercel.app))
