@@ -24,6 +24,7 @@
 ### 🚀 About me
 
 - 🎓 Second-year CSE student at **Presidency University, Bengaluru**
+- 🎖️ Proud **Google Student Ambassador**
 - 🤖 I love building with **Generative AI** — multi-agent systems, AI assistants and smart dashboards
 - 🌱 Most of my projects tackle real problems: legal access, civic decision-making, sustainability and clean energy
 - 🧑‍🤝‍🧑 Class representative and active in technical events
@@ -31,9 +32,9 @@
 
 ### 🏆 Recognition
 
+- 🎖️ **Google Student Ambassador** (2026)
 - 🥇 **DST INSPIRE Award** recipient
 - 💡 Selected among **NITI Aayog's Top 100 ATL Tinkerpreneurs**
-- ✨ Shortlisted for **Google's Gemini Student Ambassador Program 2026**
 - 🌍 **3rd place globally** — GraphRAG medical AI built on TigerGraph (team project)
 
 ### 🛠️ Tech stack
