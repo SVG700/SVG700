@@ -58,7 +58,7 @@
 
 | Project | What it does | Live |
 |---|---|---|
-| [**Agrisense AI**](https://github.com/SVG700/Agrisense) | Predictive insect monitoring for farms — Raspberry Pi sticky traps, AI vision pest detection, Gemini/Claude agronomic advice and a real-time farmer dashboard (IoT · Computer Vision · React · Supabase) | — |
+| [**Agrisense AI**](https://github.com/SVG700/Agrisense) | Predictive insect monitoring for farms — Raspberry Pi sticky traps, AI vision pest detection, Gemini/Claude agronomic advice and a real-time farmer dashboard (IoT · Computer Vision · React · Supabase) | [Demo](https://agrisense-eight-nu.vercel.app) |
 | [**Drishti**](https://github.com/SVG700/Drishti) | AI-powered infrastructure intelligence for MoSPI PAIMANA (Smart India Hackathon SIH26103) — 2,100+ national projects, delay & risk analytics, a Gemini assistant and a 3D Cesium globe | [Demo](https://drishti-nu-one.vercel.app) |
 | [**NyayaLens**](https://github.com/SVG700/NyayaLens) | AI-powered legal document understanding & assistance platform (Next.js + Gemini) | [Demo](https://nyayalens-pink.vercel.app) |
 | [**Utsava**](https://github.com/SVG700/Utsava) | GenAI event planner for weddings, birthdays and community events — exact budgets and timelines, tested with Vitest & Playwright (PromptWars 2026) | [Demo](https://utsava-murex.vercel.app) |
